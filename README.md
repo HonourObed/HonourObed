@@ -36,16 +36,6 @@ I’m particularly interested in building and simulating robotic systems that in
 ## 🛠 Tools & Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,matlab,arduino,linux,ros" />
 
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent)
-
----
-
 ## 📌 Notes
 - This GitHub documents learning, experimentation, and research-oriented projects  
 - Repositories include simulations, control systems work, robotics experiments, and applied programming  
