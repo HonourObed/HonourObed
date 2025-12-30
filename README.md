@@ -1,5 +1,15 @@
 # Hi, I’m Honour 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+
 **Undergraduate Research Assistant** and **Mechatronics Engineering student** based in Nigeria 🇳🇬,  
 with a strong focus on **intelligent robotic systems, control theory, and applied AI**.
 
@@ -26,7 +36,6 @@ I’m particularly interested in building and simulating robotic systems that in
 ## 🛠 Tools & Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,matlab,arduino,linux,ros" />
 
-> ROS version: **ROS 2 Jazzy**
 
 ---
 
